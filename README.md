@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Youssef Fathallah</h1>
 <h3 align="center">A passionate software developer with a focus on creating intuitive and scalable applications.</h3>
 
-- 🌱 I’m currently learning **.NET and J2EE**
+## About me 🧑‍💼
 
-- 📫 How to reach me **fathallahyoussef09@gmail.com**
+- 🔭 I’m currently working on finishing the last steps of **BaridAI**, an AI-powered Outlook add-in for mail generation and summarization.
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/youssef fathallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef fathallah" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/27179050/youssef-fathallah?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27179050/youssef-fathallah?tab=profile" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007625326016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007625326016" height="30" width="40" /></a>
-<a href="https://instagram.com/joe_9104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_9104" height="30" width="40" /></a>
-</p>
+- 🚀 I’m looking to improve the UI/UX of my applications, making them more intuitive and user-friendly.
 
-## Languages and Tools:
+- 💬 Ask me about **Python** (my strongest skill), **JavaScript** (still exploring frameworks and libraries), or my experiences with **Java**, **ReactJS**, **MERN stack**, **Flask** and **Figma**—while I’m still growing my expertise, I’d be happy to share insights from my 2+ years of experience across these areas.
+
+- 🌱 I’m currently learning **.NET and J2EE**.
+
+- 📫 How to reach me: **fathallahyoussef09@gmail.com**
+
+
+## Languages and Tools 🧑‍💻
+
+Though my journey as a developer is still in its early stages, I’ve gained valuable experience with a variety of languages, frameworks, and tools, including:
 
  ### 🌐 Web development
 
@@ -32,7 +35,8 @@
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
 
 ### 🛠️ Other frameworks
 
@@ -58,16 +62,20 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
 
+## Get in Touch 📱
+<p align="left">
+<a href="https://www.linkedin.com/in/youssef-fathallah-759897305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef fathallah" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27179050/youssef-fathallah?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/27179050/youssef-fathallah?tab=profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007625326016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007625326016" height="30" width="40" /></a>
+<a href="https://instagram.com/fathallah_9104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joe_9104" height="30" width="40" /></a>
+</p>
+
 <!--
 **joe-9104/joe-9104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
