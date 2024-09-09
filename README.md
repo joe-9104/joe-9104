@@ -62,6 +62,12 @@ Though my journey as a developer is still in its early stages, I’ve gained val
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
+## GitHub stats 📊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-9104&hide=prs,issues&include_all_commits=True&show_icons=True&theme=transparent&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-9104&size_weight=0.5&count_weight=0.5&layout=donut&theme=transparent&hide_border=True)
+
 
 ## Get in Touch 📱
 <p align="left">
