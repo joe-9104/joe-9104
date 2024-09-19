@@ -27,7 +27,12 @@ Though my journey as a developer is still in its early stages, I’ve gained val
 ### 💻 MERN Stack
 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+   <picture>
+     <source srcset="express-js.png" media="(prefers-color-scheme: dark)" width="40" height="40" alt="flask">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express-js">
+   </picture>
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
@@ -42,7 +47,7 @@ Though my journey as a developer is still in its early stages, I’ve gained val
 
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
    <picture>
-     <source srcset="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" media="(prefers-color-scheme: dark)" width="40" height="40" alt="flask">
+     <source srcset="flask.png" media="(prefers-color-scheme: dark)" width="40" height="40" alt="flask">
      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="flask">
    </picture>
   </a>
