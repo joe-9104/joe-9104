@@ -42,7 +42,7 @@ Though my journey as a developer is still in its early stages, I’ve gained val
 
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
    <picture>
-     <source srcset="flask.png" media="(prefers-color-scheme: dark)" width="102" height="40" alt="flask">
+     <source srcset="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" media="(prefers-color-scheme: dark)" width="40" height="40" alt="flask">
      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="flask">
    </picture>
   </a>
